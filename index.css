@@ -1,1 +1,43 @@
-
+body {
+    height: 600px;
+    width: 800px;
+    background-color: antiquewhite;
+}
+p.one {
+    height: 75%;
+    width: 75%;
+    background-color: aquamarine;
+    font-family: cursive;
+    color: darkblue;
+    font-size: 150%;
+}
+p.two {
+    height: 300px;
+    width: 350px;
+    background-color: coral;
+    float: left;
+    font-family: monospace;
+    font-size: 125%;
+}
+p.three {
+    height: 300px;
+    width:350px;
+    background-color: darkcyan;
+    float: right;
+    clear: right;
+    color: azure;
+    font-family: monospace;
+    font-size: 125%;
+}
+a.one {
+    color: darkblue;
+}
+a.two{
+    color: black;
+}
+a.three{
+    color:azure;
+}
+h1 {
+    font-family: fantasy;
+}
